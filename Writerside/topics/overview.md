@@ -1,67 +1,64 @@
 # Overview
 
-**%product%** is a powerful and intuitive software solution designed for property managers, building inspectors, and co-ownership administrators.  
-It streamlines **on-site visits**, **inspection reporting**, and **work supervision** within condominium buildings and shared properties.
+**%product%** is a powerful and intuitive software solution designed for property managers, building inspectors, and co-ownership administrators. It streamlines **on-site visits**, **inspection reporting**, and **work supervision** within condominium buildings and shared properties.
 
 ---
 
-## Overview 2
+## Centralized Operations
 
-**%product%** centralizes all visit and inspection activities in one modern, collaborative platform.  
-Whether you are performing a **routine condominium visit**, a **maintenance inspection**, or a **follow-up on construction works**, FL Copro helps you stay organized, compliant, and efficient.
-
-Designed for both **desktop and mobile**, it ensures seamless operation whether you are in the office or on-site.
+**%product%** brings all visit and inspection activities together in a modern, collaborative environment. Whether you are conducting a **routine condominium visit**, a **maintenance inspection**, or a **construction follow-up**, **FL Copro** helps you stay organized, compliant, and efficient.  
+Accessible on both **desktop and mobile**, it ensures seamless operation whether you’re at your desk or on-site.
 
 ---
 
-## 🧭 Core Features
+## Core Features
 
-### 📝 1. Visit & Inspection Reports
+### 1. Visit and Inspection Reports
 - Create detailed **visit reports** in just a few clicks.
 - Add **text, photos, checklists, and annotations** directly from your smartphone or tablet.
-- Categorize visits:
+- Categorize visits by type:
     - Routine Condominium Visit
     - Technical Inspection
     - Safety Compliance Review
     - Maintenance Follow-Up
     - Work Acceptance Visit
 
-### 🛠️ 2. Work & Maintenance Tracking
+### 2. Work and Maintenance Tracking
 - Manage **ongoing maintenance projects** and **contractor interventions**.
-- Record work progress, add photo evidence, and attach supplier documents.
-- Automatically generate follow-up reports to share with co-owners or trustees.
+- Record progress, attach supplier documents, and include photographic evidence.
+- Automatically generate **follow-up reports** for co-owners or trustees.
 
-### 📸 3. Media & Documentation
-- Upload and organize **photos, videos, and documents** per building, visit, or task.
-- Built-in **markup tools** to highlight issues directly on photos.
-- Generate **visual inspection summaries** with before/after comparisons.
+### 3. Media and Documentation
+- Upload and organize **photos, videos, and documents** by building, visit, or task.
+- Use **markup tools** to highlight issues directly on images.
+- Generate **visual inspection summaries** with before-and-after comparisons.
 
-### 📅 4. Scheduling & Notifications
+### 4. Scheduling and Notifications
 - Plan and schedule visits and inspections.
-- Receive reminders and automated alerts for deadlines, recurrent visits, or overdue actions.
-- Sync with **Google Calendar**, **Outlook**, or your property management ERP.
+- Receive reminders and alerts for deadlines, recurrent visits, or overdue actions.
+- Sync seamlessly with **Google Calendar**, **Outlook**, or your property management ERP.
 
-### 👥 5. Collaboration & Sharing
-- Collaborate in real time with **co-managers**, **technicians**, or **service providers**.
+### 5. Collaboration and Sharing
+- Collaborate in real time with **co-managers**, **technicians**, and **service providers**.
 - Share reports via secure links or export them as **PDF**, **Word**, or **Excel** files.
-- Enable co-owners to access limited views of reports and follow progress transparently.
+- Allow co-owners to view limited versions of reports for transparent progress tracking.
 
-### 📊 6. Dashboards & Analytics
-- Visualize inspection frequency, maintenance backlog, and performance indicators.
+### 6. Dashboards and Analytics
+- Visualize inspection frequency, maintenance backlog, and key performance indicators.
 - Generate **custom analytics** per building, category, or manager.
-- Export data to Excel or integrate with external BI tools.
+- Export data to Excel or integrate with your BI tools.
 
 ---
 
-## 🔐 Security & Compliance
+## Security and Compliance
 
-- GDPR-compliant data storage within the EU.
-- Secure cloud hosting with daily encrypted backups.
-- Multi-user authentication and access control for different roles (Administrator, Inspector, Contractor, Viewer).
+- GDPR-compliant data storage within the European Union
+- Secure cloud hosting with daily encrypted backups
+- Multi-user authentication and access control by role (Administrator, Inspector, Contractor, Viewer)
 
 ---
 
-## 🧰 Technical Specifications
+## Technical Specifications
 
 | Category | Details |
 |-----------|----------|
@@ -73,53 +70,51 @@ Designed for both **desktop and mobile**, it ensures seamless operation whether 
 
 ---
 
-## 🧩 Example Use Cases
+## Example Use Cases
 
-| Role | Example Scenario |
-|------|------------------|
-| **Property Manager** | Performs monthly inspections of common areas and generates a report for the syndic. |
-| **Building Inspector** | Documents safety compliance and creates a checklist-based report with photos. |
-| **Construction Supervisor** | Tracks renovation progress, assigns tasks, and creates end-of-work acceptance reports. |
-| **Maintenance Team** | Logs all interventions, materials used, and uploads photos for accountability. |
-
----
-
-## 💡 Why Choose FL Copro?
-
-- ✅ Centralized management of all visits and inspections
-- 📲 Works online & offline with automatic synchronization
-- 🧾 Professional, customizable report templates
-- 🧑‍💼 Multi-site and multi-user support
-- 🔍 Transparent traceability and historical tracking
+| Role | Scenario |
+|------|-----------|
+| **Property Manager** | Performs monthly inspections of common areas and generates reports for the syndic. |
+| **Building Inspector** | Documents safety compliance using checklist-based reports with photos. |
+| **Construction Supervisor** | Tracks renovation progress, assigns tasks, and produces end-of-work acceptance reports. |
+| **Maintenance Team** | Logs interventions, materials used, and uploads photo documentation for accountability. |
 
 ---
 
-## 📄 Example Output
+## Why Choose FL Copro
+
+- Centralized management of all visits and inspections
+- Works online and offline with automatic synchronization
+- Professional and customizable report templates
+- Multi-site and multi-user support
+- Transparent traceability and complete historical tracking
+
+---
+
+## Example Report Output
 
 Each visit report automatically includes:
-
-- Building and unit details
+- Building and unit information
 - Date, time, and participants
 - Visit type and purpose
-- Observations (with categories and photos)
+- Observations with categories and photos
 - Action plan and recommendations
 - Digital signatures and timestamps
 
 ---
 
-## 🧪 Future Roadmap
+## Future Roadmap
 
-- 🔧 AI-powered defect detection from photos
-- 🗂️ Automatic categorization of issues
-- 🧭 3D building mapping integration
-- 🤝 Client portal for direct access and validation
+- AI-powered defect detection from images
+- Automatic issue categorization
+- 3D building mapping integration
+- Client portal for direct access and validation
 
 ---
 
-## 📬 Contact
+## Contact
 
-For more information or to request a demo:
-
+For more information or to request a demo:  
 **Website:** [www.flcopro.com](https://www.flcopro.com)  
 **Email:** contact@flcopro.com  
 **Phone:** +33 1 23 45 67 89  
@@ -127,6 +122,4 @@ For more information or to request a demo:
 
 ---
 
-> _“FL Copro turns your site visits into smart, actionable data — empowering better property management.”_
-
----
+> “FL Copro transforms your site visits into smart, actionable data — empowering better property management.”
