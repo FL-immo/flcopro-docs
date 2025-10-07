@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="7bae725c">
+        <description>Created after removal of "Pet" from API Docs</description>
+        <accepts>Pet.html</accepts>
+    </rule>
+    <rule id="59641cd7">
+        <description>Created after removal of "Find pet inventories by status" from API Docs</description>
+        <accepts>Returns-pet-inventories-by-status.html</accepts>
+    </rule>
+    <rule id="2d34f653">
+        <description>Created after removal of "Place order for pet" from API Docs</description>
+        <accepts>Place-an-order-for-a-pet.html</accepts>
+    </rule>
+    <rule id="4d504c5b">
+        <description>Created after removal of "Find purchase order by ID" from API Docs</description>
+        <accepts>Find-purchase-order-by-ID.html</accepts>
+    </rule>
+    <rule id="31a6ef04">
+        <description>Created after removal of "Delete purchase order by ID" from API Docs</description>
+        <accepts>Delete-purchase-order-by-ID.html</accepts>
+    </rule>
+    <rule id="1e15cafe">
+        <description>Created after removal of "Create user" from API Docs</description>
+        <accepts>Create-user.html</accepts>
+    </rule>
+    <rule id="59507563">
+        <description>Created after removal of "Create list of users with given input array" from API Docs</description>
+        <accepts>Creates-list-of-users-with-given-input-array.html</accepts>
+    </rule>
+    <rule id="374bf494">
+        <description>Created after removal of "Log user into the system" from API Docs</description>
+        <accepts>Logs-user-into-the-system.html</accepts>
+    </rule>
+    <rule id="3f607c23">
+        <description>Created after removal of "Log current user out" from API Docs</description>
+        <accepts>Logs-out-current-logged-in-user-session.html</accepts>
+    </rule>
+    <rule id="2ce7ff44">
+        <description>Created after removal of "Find user" from API Docs</description>
+        <accepts>Get-user-by-user-name.html</accepts>
+    </rule>
+    <rule id="117fbd04">
+        <description>Created after removal of "Update user" from API Docs</description>
+        <accepts>Update-user.html</accepts>
+    </rule>
+    <rule id="676633ed">
+        <description>Created after removal of "Delete user" from API Docs</description>
+        <accepts>Delete-user.html</accepts>
+    </rule>
+    <rule id="5c73dc30">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API-reference.html</accepts>
+    </rule>
+    <rule id="2df13971">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference.html</accepts>
+    </rule>
+    <rule id="655b48a3">
+        <description>Created after removal of "Remove a resident from a condominium" from API Docs</description>
+        <accepts>Remove_a_resident_from_a_condominium.html</accepts>
+    </rule>
+    <rule id="1ae7b1b3">
+        <description>Created after removal of "Update a resident" from API Docs</description>
+        <accepts>Update_a_resident.html</accepts>
+    </rule>
+    <rule id="25cf10fc">
+        <description>Created after removal of "Add a resident to a condominium" from API Docs</description>
+        <accepts>Add_a_resident_to_a_condominium.html</accepts>
+    </rule>
+    <rule id="6aad5146">
+        <description>Created after removal of "Seed the database with condominiums" from API Docs</description>
+        <accepts>Seed_the_database_with_condominiums.html</accepts>
+    </rule>
+    <rule id="37846c00">
+        <description>Created after removal of "Add a condominium" from API Docs</description>
+        <accepts>Add_a_condominium.html</accepts>
+    </rule>
+    <rule id="6fce6729">
+        <description>Created after removal of "Delete condominium by ID" from API Docs</description>
+        <accepts>Delete_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="7ad3bc02">
+        <description>Created after removal of "Update condominium by ID" from API Docs</description>
+        <accepts>Update_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="204abdca">
+        <description>Created after removal of "Get condominium by ID" from API Docs</description>
+        <accepts>Get_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="e4769c">
+        <description>Created after removal of "Get number of residents" from API Docs</description>
+        <accepts>Get_number_of_residents.html</accepts>
+    </rule>
+    <rule id="1b5f8fb8">
+        <description>Created after removal of "Get all residents" from API Docs</description>
+        <accepts>Get_all_residents.html</accepts>
+    </rule>
+    <rule id="3a36b2a0">
+        <description>Created after removal of "Get all condominium codes" from API Docs</description>
+        <accepts>Get_all_condominium_codes.html</accepts>
+    </rule>
+    <rule id="42e389fb">
+        <description>Created after removal of "Get number of condominiums" from API Docs</description>
+        <accepts>Get_number_of_condominiums.html</accepts>
+    </rule>
+    <rule id="12c5f0d0">
+        <description>Created after removal of "Get condominiums with a limit" from API Docs</description>
+        <accepts>Get_condominiums_with_a_limit.html</accepts>
+    </rule>
+    <rule id="4c2a4c9c">
+        <description>Created after removal of "Get all condominiums" from API Docs</description>
+        <accepts>Get_all_condominiums.html</accepts>
+    </rule>
+    <rule id="db07ed7">
+        <description>Created after removal of "Schemas" from API Docs</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
+    <rule id="8a4aaab">
+        <description>Created after removal of "Remove a resident from a condominium" from API Docs</description>
+        <accepts>Remove_a_resident_from_a_condominium2.html</accepts>
+    </rule>
+    <rule id="707e272e">
+        <description>Created after removal of "Update a resident" from API Docs</description>
+        <accepts>Update_a_resident2.html</accepts>
+    </rule>
+    <rule id="14f166d9">
+        <description>Created after removal of "Add a resident to a condominium" from API Docs</description>
+        <accepts>Add_a_resident_to_a_condominium2.html</accepts>
+    </rule>
+    <rule id="4875057a">
+        <description>Created after removal of "Seed the database with condominiums" from API Docs</description>
+        <accepts>Seed_the_database_with_condominiums2.html</accepts>
+    </rule>
+    <rule id="252cd70">
+        <description>Created after removal of "Add a condominium" from API Docs</description>
+        <accepts>Add_a_condominium2.html</accepts>
+    </rule>
+    <rule id="30350904">
+        <description>Created after removal of "Delete condominium by ID" from API Docs</description>
+        <accepts>Delete_condominium_by_ID2.html</accepts>
+    </rule>
+    <rule id="14301e23">
+        <description>Created after removal of "Update condominium by ID" from API Docs</description>
+        <accepts>Update_condominium_by_ID2.html</accepts>
+    </rule>
+    <rule id="3c791797">
+        <description>Created after removal of "Get condominium by ID" from API Docs</description>
+        <accepts>Get_condominium_by_ID2.html</accepts>
+    </rule>
+    <rule id="6800fb44">
+        <description>Created after removal of "Get number of residents" from API Docs</description>
+        <accepts>Get_number_of_residents2.html</accepts>
+    </rule>
+    <rule id="5fc05dce">
+        <description>Created after removal of "Get all residents" from API Docs</description>
+        <accepts>Get_all_residents2.html</accepts>
+    </rule>
+    <rule id="227c7964">
+        <description>Created after removal of "Get all condominium codes" from API Docs</description>
+        <accepts>Get_all_condominium_codes2.html</accepts>
+    </rule>
+    <rule id="6c4f599">
+        <description>Created after removal of "Get number of condominiums" from API Docs</description>
+        <accepts>Get_number_of_condominiums2.html</accepts>
+    </rule>
+    <rule id="64d21128">
+        <description>Created after removal of "Get condominiums with a limit" from API Docs</description>
+        <accepts>Get_condominiums_with_a_limit2.html</accepts>
+    </rule>
+    <rule id="170ee281">
+        <description>Created after removal of "Get all condominiums" from API Docs</description>
+        <accepts>Get_all_condominiums2.html</accepts>
+    </rule>
+    <rule id="1842c684">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference.html</accepts>
+    </rule>
+    <rule id="2a1d7d56">
+        <description>Created after removal of "Remove a resident from a condominium" from API Docs</description>
+        <accepts>Remove_a_resident_from_a_condominium.html</accepts>
+    </rule>
+    <rule id="e5bdc01">
+        <description>Created after removal of "Update a resident" from API Docs</description>
+        <accepts>Update_a_resident.html</accepts>
+    </rule>
+    <rule id="93b05d5">
+        <description>Created after removal of "Add a resident to a condominium" from API Docs</description>
+        <accepts>Add_a_resident_to_a_condominium.html</accepts>
+    </rule>
+    <rule id="25a9dfb">
+        <description>Created after removal of "Seed the database with condominiums" from API Docs</description>
+        <accepts>Seed_the_database_with_condominiums.html</accepts>
+    </rule>
+    <rule id="7833d0ab">
+        <description>Created after removal of "Add a condominium" from API Docs</description>
+        <accepts>Add_a_condominium.html</accepts>
+    </rule>
+    <rule id="1ea57c20">
+        <description>Created after removal of "Delete condominium by ID" from API Docs</description>
+        <accepts>Delete_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="1791afd0">
+        <description>Created after removal of "Update condominium by ID" from API Docs</description>
+        <accepts>Update_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="1c2824ce">
+        <description>Created after removal of "Get condominium by ID" from API Docs</description>
+        <accepts>Get_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="5b70014c">
+        <description>Created after removal of "Get number of residents" from API Docs</description>
+        <accepts>Get_number_of_residents.html</accepts>
+    </rule>
+    <rule id="2fb97642">
+        <description>Created after removal of "Get all residents" from API Docs</description>
+        <accepts>Get_all_residents.html</accepts>
+    </rule>
+    <rule id="54f410ca">
+        <description>Created after removal of "Get all condominium codes" from API Docs</description>
+        <accepts>Get_all_condominium_codes.html</accepts>
+    </rule>
+    <rule id="60f76992">
+        <description>Created after removal of "Get number of condominiums" from API Docs</description>
+        <accepts>Get_number_of_condominiums.html</accepts>
+    </rule>
+    <rule id="319aeae2">
+        <description>Created after removal of "Get condominiums with a limit" from API Docs</description>
+        <accepts>Get_condominiums_with_a_limit.html</accepts>
+    </rule>
+    <rule id="550d3c79">
+        <description>Created after removal of "Get all condominiums" from API Docs</description>
+        <accepts>Get_all_condominiums.html</accepts>
+    </rule>
+    <rule id="dbe3770">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference2.html</accepts>
+    </rule>
+    <rule id="729e8791">
+        <description>Created after removal of "Schemas" from API Docs</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
+    <rule id="26f5a3a">
+        <description>Created after removal of "Remove a resident from a condominium" from API Docs</description>
+        <accepts>Remove_a_resident_from_a_condominium2.html</accepts>
+    </rule>
+    <rule id="4df19f3c">
+        <description>Created after removal of "Update a resident" from API Docs</description>
+        <accepts>Update_a_resident2.html</accepts>
+    </rule>
+    <rule id="743ae5be">
+        <description>Created after removal of "Add a resident to a condominium" from API Docs</description>
+        <accepts>Add_a_resident_to_a_condominium2.html</accepts>
+    </rule>
+    <rule id="5ed83857">
+        <description>Created after removal of "Seed the database with condominiums" from API Docs</description>
+        <accepts>Seed_the_database_with_condominiums2.html</accepts>
+    </rule>
+    <rule id="3182f81">
+        <description>Created after removal of "Add a condominium" from API Docs</description>
+        <accepts>Add_a_condominium2.html</accepts>
+    </rule>
+    <rule id="4aa57288">
+        <description>Created after removal of "Delete condominium by ID" from API Docs</description>
+        <accepts>Delete_condominium_by_ID2.html</accepts>
+    </rule>
+    <rule id="1c8f93f9">
+        <description>Created after removal of "Update condominium by ID" from API Docs</description>
+        <accepts>Update_condominium_by_ID2.html</accepts>
+    </rule>
+    <rule id="323e46c6">
+        <description>Created after removal of "Get condominium by ID" from API Docs</description>
+        <accepts>Get_condominium_by_ID2.html</accepts>
+    </rule>
+    <rule id="32d2e56">
+        <description>Created after removal of "Get number of residents" from API Docs</description>
+        <accepts>Get_number_of_residents2.html</accepts>
+    </rule>
+    <rule id="769f0dda">
+        <description>Created after removal of "Get all residents" from API Docs</description>
+        <accepts>Get_all_residents2.html</accepts>
+    </rule>
+    <rule id="20a461da">
+        <description>Created after removal of "Get all condominium codes" from API Docs</description>
+        <accepts>Get_all_condominium_codes2.html</accepts>
+    </rule>
+    <rule id="34117666">
+        <description>Created after removal of "Get number of condominiums" from API Docs</description>
+        <accepts>Get_number_of_condominiums2.html</accepts>
+    </rule>
+    <rule id="36928516">
+        <description>Created after removal of "Get condominiums with a limit" from API Docs</description>
+        <accepts>Get_condominiums_with_a_limit2.html</accepts>
+    </rule>
+    <rule id="1b2a05ba">
+        <description>Created after removal of "Get all condominiums" from API Docs</description>
+        <accepts>Get_all_condominiums2.html</accepts>
+    </rule>
+    <rule id="7c8ea967">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference2.html</accepts>
+    </rule>
+    <rule id="3a845d1">
+        <description>Created after removal of "Schemas" from API Docs</description>
+        <accepts>Schemas2.html</accepts>
+    </rule>
+    <rule id="19f9eeb">
+        <description>Created after removal of "Condominium" from API Docs</description>
+        <accepts>Condominium.html</accepts>
+    </rule>
+    <rule id="4621cb52">
+        <description>Created after removal of "Resident" from API Docs</description>
+        <accepts>Resident.html</accepts>
+    </rule>
+    <rule id="185d8a8b">
+        <description>Created after removal of "Address" from API Docs</description>
+        <accepts>Address.html</accepts>
+    </rule>
+    <rule id="47103e1f">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference3.html</accepts>
+    </rule>
+    <rule id="51a3c1de">
+        <description>Created after removal of "Remove a resident from a condominium" from API Docs</description>
+        <accepts>Remove_a_resident_from_a_condominium3.html</accepts>
+    </rule>
+    <rule id="6b62f774">
+        <description>Created after removal of "Update a resident" from API Docs</description>
+        <accepts>Update_a_resident3.html</accepts>
+    </rule>
+    <rule id="29c82548">
+        <description>Created after removal of "Add a resident to a condominium" from API Docs</description>
+        <accepts>Add_a_resident_to_a_condominium3.html</accepts>
+    </rule>
+    <rule id="397753e2">
+        <description>Created after removal of "Seed the database with condominiums" from API Docs</description>
+        <accepts>Seed_the_database_with_condominiums3.html</accepts>
+    </rule>
+    <rule id="2d83bfe3">
+        <description>Created after removal of "Add a condominium" from API Docs</description>
+        <accepts>Add_a_condominium3.html</accepts>
+    </rule>
+    <rule id="444f5a20">
+        <description>Created after removal of "Delete condominium by ID" from API Docs</description>
+        <accepts>Delete_condominium_by_ID3.html</accepts>
+    </rule>
+    <rule id="1f29b238">
+        <description>Created after removal of "Update condominium by ID" from API Docs</description>
+        <accepts>Update_condominium_by_ID3.html</accepts>
+    </rule>
+    <rule id="54074d8d">
+        <description>Created after removal of "Get condominium by ID" from API Docs</description>
+        <accepts>Get_condominium_by_ID3.html</accepts>
+    </rule>
+    <rule id="636ab8c2">
+        <description>Created after removal of "Get number of residents" from API Docs</description>
+        <accepts>Get_number_of_residents3.html</accepts>
+    </rule>
+    <rule id="4a6675b3">
+        <description>Created after removal of "Get all residents" from API Docs</description>
+        <accepts>Get_all_residents3.html</accepts>
+    </rule>
+    <rule id="6483ef5c">
+        <description>Created after removal of "Get all condominium codes" from API Docs</description>
+        <accepts>Get_all_condominium_codes3.html</accepts>
+    </rule>
+    <rule id="2e9fab28">
+        <description>Created after removal of "Get number of condominiums" from API Docs</description>
+        <accepts>Get_number_of_condominiums3.html</accepts>
+    </rule>
+    <rule id="4222c4c6">
+        <description>Created after removal of "Get condominiums with a limit" from API Docs</description>
+        <accepts>Get_condominiums_with_a_limit3.html</accepts>
+    </rule>
+    <rule id="7a7d7345">
+        <description>Created after removal of "Get all condominiums" from API Docs</description>
+        <accepts>Get_all_condominiums3.html</accepts>
+    </rule>
+    <rule id="6400abff">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference4.html</accepts>
+    </rule>
+    <rule id="6d90dd">
+        <description>Created after removal of "Schemas" from API Docs</description>
+        <accepts>Schemas3.html</accepts>
+    </rule>
+    <rule id="3c37eb97">
+        <description>Created after removal of "User" from API Docs</description>
+        <accepts>User.html</accepts>
+    </rule>
+    <rule id="540e51f1">
+        <description>Created after removal of "Condominium" from API Docs</description>
+        <accepts>Condominium2.html</accepts>
+    </rule>
+    <rule id="3cae0bac">
+        <description>Created after removal of "Resident" from API Docs</description>
+        <accepts>Resident2.html</accepts>
+    </rule>
+    <rule id="6807b58f">
+        <description>Created after removal of "Address" from API Docs</description>
+        <accepts>Address2.html</accepts>
+    </rule>
+    <rule id="35f09366">
+        <description>Created after removal of "API Reference" from API Docs</description>
+        <accepts>API_Reference5.html</accepts>
+    </rule>
+    <rule id="69b333">
+        <description>Created after removal of "API Reference" from fl-copro docs</description>
+        <accepts>API_Reference7.html</accepts>
+    </rule>
+    <rule id="51b4e701">
+        <description>Created after removal of "API Quickstart" from fl-copro docs</description>
+        <accepts>API-quickstart.html</accepts>
+    </rule>
+    <rule id="69ac1234">
+        <description>Created after removal of "Changes" from fl-copro docs</description>
+        <accepts>Changes.html</accepts>
+    </rule>
+    <rule id="76b1264d">
+        <description>Created after removal of "Register a new user" from FL copro documentation</description>
+        <accepts>Register_a_new_user.html</accepts>
+    </rule>
+    <rule id="48db546">
+        <description>Created after removal of "Login with email and password" from FL copro documentation</description>
+        <accepts>Login_with_email_and_password.html</accepts>
+    </rule>
+    <rule id="6b8b9d64">
+        <description>Created after removal of "Get the authenticated user's profile" from FL copro documentation
+        </description>
+        <accepts>Get_the_authenticated_user_s_profile.html</accepts>
+    </rule>
+    <rule id="5c986d3">
+        <description>Created after removal of "Change the authenticated user's password" from FL copro documentation
+        </description>
+        <accepts>Change_the_authenticated_user_s_password.html</accepts>
+    </rule>
+    <rule id="24f4d2d8">
+        <description>Created after removal of "Update authenticated user's profile" from FL copro documentation
+        </description>
+        <accepts>Update_authenticated_user_s_profile.html</accepts>
+    </rule>
+    <rule id="e464638">
+        <description>Created after removal of "Request email verification" from FL copro documentation</description>
+        <accepts>Request_email_verification.html</accepts>
+    </rule>
+    <rule id="4d9bf48">
+        <description>Created after removal of "Verify email with a token" from FL copro documentation</description>
+        <accepts>Verify_email_with_a_token.html</accepts>
+    </rule>
+    <rule id="485f604e">
+        <description>Created after removal of "Initiate password reset" from FL copro documentation</description>
+        <accepts>Initiate_password_reset.html</accepts>
+    </rule>
+    <rule id="32907914">
+        <description>Created after removal of "Reset password with token" from FL copro documentation</description>
+        <accepts>Reset_password_with_token.html</accepts>
+    </rule>
+    <rule id="15db3c6">
+        <description>Created after removal of "Get all condominiums" from FL copro documentation</description>
+        <accepts>Get_all_condominiums4.html</accepts>
+    </rule>
+    <rule id="6022f4fa">
+        <description>Created after removal of "Get condominiums with a limit" from FL copro documentation</description>
+        <accepts>Get_condominiums_with_a_limit4.html</accepts>
+    </rule>
+    <rule id="4b10b5d">
+        <description>Created after removal of "Get number of condominiums" from FL copro documentation</description>
+        <accepts>Get_number_of_condominiums4.html</accepts>
+    </rule>
+    <rule id="77086a31">
+        <description>Created after removal of "Get all condominium codes" from FL copro documentation</description>
+        <accepts>Get_all_condominium_codes4.html</accepts>
+    </rule>
+    <rule id="4322b598">
+        <description>Created after removal of "Get residents of a condominium by ID" from FL copro documentation
+        </description>
+        <accepts>Get_residents_of_a_condominium_by_ID.html</accepts>
+    </rule>
+    <rule id="79f81729">
+        <description>Created after removal of "Get all residents" from FL copro documentation</description>
+        <accepts>Get_all_residents4.html</accepts>
+    </rule>
+    <rule id="6eb68b94">
+        <description>Created after removal of "Get number of residents" from FL copro documentation</description>
+        <accepts>Get_number_of_residents4.html</accepts>
+    </rule>
+    <rule id="15c7b90b">
+        <description>Created after removal of "Get condominium by ID" from FL copro documentation</description>
+        <accepts>Get_condominium_by_ID4.html</accepts>
+    </rule>
+    <rule id="69d6547b">
+        <description>Created after removal of "Delete condominium by ID" from FL copro documentation</description>
+        <accepts>Delete_condominium_by_ID4.html</accepts>
+    </rule>
+    <rule id="66c739bb">
+        <description>Created after removal of "Update condominium by ID" from FL copro documentation</description>
+        <accepts>Update_condominium_by_ID4.html</accepts>
+    </rule>
+    <rule id="e33ee13">
+        <description>Created after removal of "Add a condominium" from FL copro documentation</description>
+        <accepts>Add_a_condominium4.html</accepts>
+    </rule>
+    <rule id="749d83c9">
+        <description>Created after removal of "Seed the database with condominiums" from FL copro documentation
+        </description>
+        <accepts>Seed_the_database_with_condominiums4.html</accepts>
+    </rule>
+    <rule id="3f2c5cf1">
+        <description>Created after removal of "Add a resident to a condominium" from FL copro documentation
+        </description>
+        <accepts>Add_a_resident_to_a_condominium4.html</accepts>
+    </rule>
+    <rule id="d3bffa3">
+        <description>Created after removal of "Update a resident" from FL copro documentation</description>
+        <accepts>Update_a_resident4.html</accepts>
+    </rule>
+    <rule id="733c4301">
+        <description>Created after removal of "Remove a resident from a condominium" from FL copro documentation
+        </description>
+        <accepts>Remove_a_resident_from_a_condominium4.html</accepts>
+    </rule>
+    <rule id="3fc1fbee">
+        <description>Created after removal of "Get an image by ID" from FL copro documentation</description>
+        <accepts>Get_an_image_by_ID.html</accepts>
+    </rule>
+    <rule id="41103899">
+        <description>Created after removal of "Delete an image by ID" from FL copro documentation</description>
+        <accepts>Delete_an_image_by_ID.html</accepts>
+    </rule>
+    <rule id="21f6c073">
+        <description>Created after removal of "Upload an image" from FL copro documentation</description>
+        <accepts>Upload_an_image.html</accepts>
+    </rule>
+    <rule id="6ad5eca">
+        <description>Created after removal of "API status and MongoDB connection info" from FL copro documentation
+        </description>
+        <accepts>API_status_and_MongoDB_connection_info.html</accepts>
+    </rule>
+    <rule id="6b8a9555">
+        <description>Created after removal of "Get all users" from FL copro documentation</description>
+        <accepts>Get_all_users.html</accepts>
+    </rule>
+    <rule id="13bf0eea">
+        <description>Created after removal of "Create a new user" from FL copro documentation</description>
+        <accepts>Create_a_new_user.html</accepts>
+    </rule>
+    <rule id="5188c615">
+        <description>Created after removal of "Pin a condominium for the current user" from FL copro documentation
+        </description>
+        <accepts>Pin_a_condominium_for_the_current_user.html</accepts>
+    </rule>
+    <rule id="77c0eeae">
+        <description>Created after removal of "Unpin a condominium for the current user" from FL copro documentation
+        </description>
+        <accepts>Unpin_a_condominium_for_the_current_user.html</accepts>
+    </rule>
+    <rule id="28e06f1d">
+        <description>Created after removal of "Delete a user by ID" from FL copro documentation</description>
+        <accepts>Delete_a_user_by_ID.html</accepts>
+    </rule>
+    <rule id="1857d995">
+        <description>Created after removal of "Schemas" from FL copro documentation</description>
+        <accepts>Schemas4.html</accepts>
+    </rule>
+    <rule id="17243767">
+        <description>Created after removal of "User" from FL copro documentation</description>
+        <accepts>User2.html</accepts>
+    </rule>
+    <rule id="3136626c">
+        <description>Created after removal of "Condominium" from FL copro documentation</description>
+        <accepts>Condominium3.html</accepts>
+    </rule>
+    <rule id="643035ae">
+        <description>Created after removal of "Resident" from FL copro documentation</description>
+        <accepts>Resident3.html</accepts>
+    </rule>
+    <rule id="6c614f07">
+        <description>Created after removal of "Address" from FL copro documentation</description>
+        <accepts>Address3.html</accepts>
+    </rule>
+    <rule id="3bcd61fb">
+        <description>Created after removal of "API Reference" from FL copro documentation</description>
+        <accepts>API_Reference6.html</accepts>
+    </rule>
+</rules>

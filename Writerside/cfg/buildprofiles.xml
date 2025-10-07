@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+
+    <!-- ===== GLOBAL VARIABLES ===== -->
+    <variables>
+        <!-- Branding & Theme -->
+        <color-preset>soft</color-preset>
+        <header-logo>logo.svg</header-logo>
+        <custom-favicons>logo.svg</custom-favicons>
+
+        <!-- Call to Action / Download -->
+        <download-title>Get Started</download-title>
+        <download-page>https://flcopro.arnaudmichel.fr</download-page>
+        <showDownloadButton>true</showDownloadButton>
+
+        <!-- Additional includes (styles, scripts etc.) -->
+        <include-in-head>styles.html</include-in-head>
+    </variables>
+
+    <!-- ===== BUILD PROFILES ===== -->
+    <build-profile instance="fd">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+
+    <!-- ===== FOOTER SECTION ===== -->
+    <footer>
+        <!-- Social / External Links -->
+        <social type="github" href="https://github.com/FL-immo/flcopro"/>
+        <social type="instagram" href="https://www.instagram.com/forni.immobilier/"/>
+        <social type="facebook" href="https://www.facebook.com/prevotimmobilieragenceslionelforni"/>
+
+        <!-- Useful / Legal Links -->
+        <link href="https://www.prevot-immobilier.com/">FL Immo</link>
+        <link href="https://github.com/FL-immo/flcopro/blob/main/LICENSE.md">License</link>
+        <link href="https://github.com/FL-immo/flcopro/issues/new/choose">Report an Issue</link>
+        <link href="https://flcopro.arnaudmichel.fr">Go to Application</link>
+
+        <copyright>2025 FL Immo</copyright>
+        <notice href="https://arnaudmichel.fr">Developed by Arnaud Michel</notice>
+    </footer>
+
+</buildprofiles>
