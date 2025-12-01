@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="f"
+                 name="FL Copro - Documentation"
+                 start-page="overview.md">
+
+    <toc-element topic="overview.md"/>
+    <toc-element topic="authentication.md"/>
+    <toc-element topic="navigation.md"/>
+    <toc-element topic="condominiums.md">
+        <toc-element topic="condominiums-overview.md"/>
+        <toc-element topic="condominiums-list.md"/>
+        <toc-element topic="condominiums-create.md">
+        </toc-element>
+        <toc-element topic="condominiums-detail.md">
+            <toc-element topic="condominiums-edit.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="reports.md">
+        <toc-element topic="reports-overview.md"/>
+        <toc-element topic="reports-create.md">
+            <toc-element topic="reports-visit.md"/>
+        </toc-element>
+        <toc-element topic="reports-structure.md"/>
+    </toc-element>
+    <toc-element topic="admin.md">
+        <toc-element topic="admin-users.md"/>
+        <toc-element topic="admin-roles.md"/>
+    </toc-element>
+    <toc-element topic="profile.md"/>
+</instance-profile>

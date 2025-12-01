@@ -1,0 +1,1 @@
+# Détail d'une copropriété

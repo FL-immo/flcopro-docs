@@ -1,3 +1,0 @@
-# Copropriétés
-
-Start typing here...
