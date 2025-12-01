@@ -30,7 +30,7 @@ Le code proposé est une suggestion calculée à partir du dernier code enregist
 
 > Exemples : 
 > 
-> `CDM-010` → valeur proposée : `CDM-011`.
+> `B0018` → valeur proposée : `B0019`.
 > 
 > `CDM-999` → valeur proposée : `CDM-1000`.
 >

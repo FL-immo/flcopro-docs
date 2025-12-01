@@ -45,14 +45,14 @@ Cette section liste tous les rapports créés pour cette copropriété.
 
 ### Structure du tableau
 
-| Colonne       | Description                                                  | Exemple                 |
-|---------------|--------------------------------------------------------------|-------------------------|
-| **Titre**     | Nom du rapport (cliquable pour ouvrir le rapport).           | `Compte rendu immeuble` |
-| **Date**      | Date de création du rapport.                                 | `28/11/2025`            |
-| **Type**      | Type de rapport (badge coloré).                              | `Visite`                |
-| **Rédacteur** | Nom de l'utilisateur ayant créé le rapport.                  | `Frederic Voirin`       |
-| **Statut**    | État actuel du rapport (badge avec couleur distinctive).     | `Finalisé`, `Brouillon` |
-| **Actions**   | Icônes d'actions rapides (modifier, télécharger, supprimer). | 🖊️ 📤 🗑️              |
+| Colonne       | Description                                                  | Exemple                                                                     |
+|---------------|--------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Titre**     | Nom du rapport (cliquable pour ouvrir le rapport).           | `Compte rendu immeuble`                                                     |
+| **Date**      | Date de création du rapport.                                 | `28/11/2025`                                                                |
+| **Type**      | Type de rapport (badge coloré).                              | `Visite`                                                                    |
+| **Rédacteur** | Nom de l'utilisateur ayant créé le rapport.                  | `Frederic Voirin`                                                           |
+| **Statut**    | État actuel du rapport (badge avec couleur distinctive).     | `Finalisé`, `Brouillon`                                                     |
+| **Actions**   | Icônes d'actions rapides (modifier, télécharger, supprimer). | ![edit.svg](edit.svg) ![download.svg](download.svg) ![trash.svg](trash.svg) |
 
 ### Détail des actions rapides
 
@@ -63,17 +63,23 @@ Cette section liste tous les rapports créés pour cette copropriété.
 <td>Description</td>
 </tr>
 <tr>
-<td>🖊️</td>
+<td>
+<img src="edit.svg" alt="edit"/>
+</td>
 <td><b>Modifier</b></td>
 <td>Ouvre le rapport en mode édition.</td>
 </tr>
 <tr>
-<td>📤</td>
-<td><b>Partager</b></td>
+<td>
+<img src="download.svg" alt="download"/>
+</td>
+<td><b>Télécharger</b></td>
 <td>Permet de télécharger.</td>
 </tr>
 <tr>
-<td>🗑️</td>
+<td>
+<img src="trash.svg" alt="delete"/>
+</td>
 <td><b>Supprimer</b></td>
 <td>Supprime définitivement le rapport (confirmation requise).</td>
 </tr>
@@ -95,13 +101,13 @@ Cette section affiche la liste complète des résidents de la copropriété.
 
 ### Colonnes du tableau
 
-| Colonne     | Description                                     | Exemple                                  |
-|-------------|-------------------------------------------------|------------------------------------------|
-| **Prénom**  | Prénom du résident.                             | `Laura`, `Sylvain`                       |
-| **Nom**     | Nom de famille du résident.                     | `Robert`, `Morawiec`                     |
-| **Email**   | Adresse email du résident.                      | `lrobert@gmail.com`                      |
-| **Actif**   | Statut du résident (actif ou inactif).          | Badge `Actif` (bleu) ou `Inactif` (gris) |
-| **Actions** | Icônes d'actions rapides (modifier, supprimer). | 🖊️ 🗑️                                  |
+| Colonne     | Description                                     | Exemple                                       |
+|-------------|-------------------------------------------------|-----------------------------------------------|
+| **Prénom**  | Prénom du résident.                             | `Laura`, `Sylvain`                            |
+| **Nom**     | Nom de famille du résident.                     | `Robert`, `Morawiec`                          |
+| **Email**   | Adresse email du résident.                      | `lrobert@gmail.com`                           |
+| **Actif**   | Statut du résident (actif ou inactif).          | Badge `Actif` (bleu) ou `Inactif` (gris)      |
+| **Actions** | Icônes d'actions rapides (modifier, supprimer). | ![edit.svg](edit.svg) ![trash.svg](trash.svg) |
 
 ### Statuts des résidents
 
@@ -112,10 +118,10 @@ Cette section affiche la liste complète des résidents de la copropriété.
 
 ### Actions sur les résidents
 
-| Icône | Action        | Description                                                     |
-|-------|---------------|-----------------------------------------------------------------|
-| 🖊️   | **Modifier**  | Ouvre un formulaire pour modifier les informations du résident. |
-| 🗑️   | **Supprimer** | Supprime définitivement le résident (confirmation requise).     |
+| Icône                   | Action        | Description                                                     |
+|-------------------------|---------------|-----------------------------------------------------------------|
+| ![edit.svg](edit.svg)   | **Modifier**  | Ouvre un formulaire pour modifier les informations du résident. |
+| ![trash.svg](trash.svg) | **Supprimer** | Supprime définitivement le résident (confirmation requise).     |
 
 ### Ajout de résidents
 
