@@ -68,10 +68,6 @@ Chaque rapport dispose de 5 actions rapides accessibles via les icônes :
 
 **Cliquer n'importe où sur la ligne du rapport** (hors zone Actions) ouvre automatiquement l'action **Reprendre la saisie**, même si le rapport est finalisé.
 
-> Cette action est utile pour créer un nouveau rapport similaire en réutilisant les données d'un rapport existant.
->
-{style="tip"}
-
 ---
 
 ## Interactions

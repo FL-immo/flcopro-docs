@@ -50,7 +50,7 @@ Cette section liste tous les rapports créés pour cette copropriété.
 | **Titre**     | Nom du rapport (cliquable pour ouvrir le rapport).           | `Compte rendu immeuble`                                                     |
 | **Date**      | Date de création du rapport.                                 | `28/11/2025`                                                                |
 | **Type**      | Type de rapport (badge coloré).                              | `Visite`                                                                    |
-| **Rédacteur** | Nom de l'utilisateur ayant créé le rapport.                  | `Frederic Voirin`                                                           |
+| **Rédacteur** | Nom de l'utilisateur ayant créé le rapport.                  | `Lionel Forni`                                                              |
 | **Statut**    | État actuel du rapport (badge avec couleur distinctive).     | `Finalisé`, `Brouillon`                                                     |
 | **Actions**   | Icônes d'actions rapides (modifier, télécharger, supprimer). | ![edit.svg](edit.svg) ![download.svg](download.svg) ![trash.svg](trash.svg) |
 
