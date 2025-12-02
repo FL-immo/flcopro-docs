@@ -11,6 +11,7 @@ Voici une description détaillée de chaque section et de chaque entrée du menu
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | **[Accueil](condominiums-overview.md)**                                            | Accès à la page d’accueil du logiciel. Tableau de bord ou vue d’ensemble des informations importantes.                       |
 | **[Problème ou suggestion](https://github.com/FL-immo/flcopro/issues/new/choose)** | Ouvre directement la page des **issues GitHub** pour signaler un problème, proposer une amélioration ou suivre les demandes. |
+| **[Documentation](overview.md)**                                                   | Ouvre cette documentation.                                                                                                   |
 
 ---
 

@@ -14,7 +14,7 @@
         <primary-color>blueberry</primary-color>
 
         <!-- Call to Action / Download -->
-        <download-title>Get Started</download-title>
+        <download-title>Commencer</download-title>
         <download-page>https://flcopro.prevot-immobilier.com</download-page>
         <showDownloadButton>true</showDownloadButton>
 
@@ -39,11 +39,11 @@
         <!-- Useful / Legal Links -->
         <link href="https://www.prevot-immobilier.com/">FL Immo</link>
         <link href="https://github.com/FL-immo/flcopro/blob/main/LICENSE.md">License</link>
-        <link href="https://github.com/FL-immo/flcopro/issues/new/choose">Report an Issue</link>
-        <link href="https://flcopro.prevot-immobilier.com">Go to Application</link>
+        <link href="https://github.com/FL-immo/flcopro/issues/new/choose">Rapporter un bug ou suggérer une amélioration</link>
+        <link href="https://flcopro.prevot-immobilier.com">Aller sur FL copro</link>
 
         <copyright>2025 FL Immo</copyright>
-        <notice href="https://arnaudmichel.fr">Developed by Arnaud Michel</notice>
+        <notice href="https://arnaudmichel.fr">Developpé par Arnaud Michel</notice>
     </footer>
     <build-profile instance="f">
         <variables>

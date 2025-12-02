@@ -53,6 +53,10 @@ Chaque type de rapport est présenté sous forme de **carte cliquable** contenan
 
 Chaque type de rapport dispose de sa propre structure et de ses propres champs de saisie adaptés au contexte.
 
+> Vous pouvez personnaliser la structure des rapports (catégories, sous-catégories et champs) depuis la page [Structure des rapports](reports-structure.md).
+>
+{style="tip"}
+
 ---
 
 ## Navigation
