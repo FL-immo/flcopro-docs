@@ -33,6 +33,10 @@
         <toc-element topic="admin-roles.md"/>
         <toc-element topic="admin-settings.md"/>
     </toc-element>
+    <toc-element topic="Divers.md">
+        <toc-element topic="pdf-extractor.md"/>
+        <toc-element topic="header-pdf.md"/>
+    </toc-element>
     <toc-element topic="profile.md"/>
 
     <!-- API REFERENCE - RESTRUCTURÉE -->
