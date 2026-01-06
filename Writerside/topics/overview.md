@@ -9,7 +9,7 @@ Il permet de créer des rapports lors des visites et de pouvoir les consulter et
 
 ### Gestion des copropriétés
 
-L'application permet de centraliser et gérer toutes vos copropriétés depuis une interface intuitive :
+L'application permet de centraliser et gérer toutes vos copropriétés depuis une interface :
 
 - **Vue d'ensemble** : Accédez rapidement à vos copropriétés favorites épinglées.
 - **Liste complète** : Consultez l'ensemble des copropriétés avec recherche et filtres avancés.
@@ -24,8 +24,8 @@ Créez des rapports structurés et professionnels adaptés à vos besoins :
 
 - **Rapports de visite** : Comptes rendus détaillés après une visite d'immeuble.
 - **Rapports d'index** : Relevés des index (eau, gaz, électricité).
-- **Rapports de maintenance** : Suivi des interventions et travaux.
-- **Structure personnalisable** : Définissez vos propres catégories et champs de saisie.
+- **Rapports de récéption de travaux** : Vérification et validation de la fin de travaux.
+- **Rapports de sinistre** : Déclarations après un dégât ou incident.
 
 Chaque rapport peut contenir :
 - Des observations détaillées par catégorie
@@ -42,6 +42,7 @@ Les administrateurs disposent d'outils complets pour gérer l'application :
 - **Gestion des utilisateurs** : Création, modification et désactivation des comptes.
 - **Gestion des rôles** : Configuration fine des permissions pour chaque profil (Admin et Gestionnaire).
 - **Contrôle d'accès** : Attribution des droits par fonctionnalité.
+- **Accès aux informations système** : Surveillance et maintenance de l'application (VPS, images orphelines, etc.).
 
 [En savoir plus sur l'administration](admin.md)
 
@@ -51,12 +52,14 @@ Les administrateurs disposent d'outils complets pour gérer l'application :
 
 L'interface est organisée autour d'un menu principal offrant un accès direct aux différentes sections :
 
-| Section | Description |
-|---------|-------------|
-| **Copropriétés** | Gestion complète de vos copropriétés. |
-| **Rapports** | Création et consultation de tous types de rapports. |
+| Section            | Description                                                     |
+|--------------------|-----------------------------------------------------------------|
+| **Principal**      | Page d’accueil, documentation et signalement de problèmes.      |
+| **Copropriétés**   | Gestion complète de vos copropriétés.                           |
+| **Rapports**       | Création et consultation de tous types de rapports.             |
 | **Administration** | Gestion des utilisateurs et des permissions (Admin uniquement). |
-| **Profil** | Paramètres de votre compte personnel. |
+| **Profil**         | Paramètres de votre compte personnel.                           |
+| **Divers**         | Accueil, documentation et signalement de problèmes.             |
 
 ---
 
@@ -64,9 +67,9 @@ L'interface est organisée autour d'un menu principal offrant un accès direct a
 
 L'application propose deux niveaux de rôles avec des permissions configurables :
 
-| Rôle | Description |
-|------|-------------|
-| **Administrateur** | Accès complet à toutes les fonctionnalités, y compris la gestion des utilisateurs et des permissions. |
-| **Gestionnaire** | Accès aux fonctionnalités de gestion des copropriétés et création de rapports, selon les permissions définies. |
+| Rôle               | Description                                                                                                    |
+|--------------------|----------------------------------------------------------------------------------------------------------------|
+| **Administrateur** | Accès complet à toutes les fonctionnalités, y compris la gestion des utilisateurs et des permissions.          |
+| **Gestionnaire**   | Accès aux fonctionnalités de gestion des copropriétés et création de rapports, selon les permissions définies. |
 
 Les permissions spécifiques de chaque rôle sont configurables depuis [l'administration](admin-roles.md).

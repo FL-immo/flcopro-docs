@@ -42,8 +42,16 @@ Voici une description détaillée de chaque section et de chaque entrée du menu
 |------------------------------------|--------------------------------------------------------------------------------------|
 | **[Utilisateurs](admin-users.md)** | Gestion des utilisateurs : création, édition, permissions, activation/désactivation. |
 | **[Rôles](admin-roles.md)**        | Gestion des rôles et permissions attribuées aux utilisateurs.                        |
+| **[Paramètres](admin-settings.md)**       | Accès aux informations système et outils de maintenance (VPS, images orphelines…).   |
 
 ---
+
+## Divers
+
+| Lien                                   | Description                                                              |
+|----------------------------------------|--------------------------------------------------------------------------|
+| **[Extracteur PDF](pdf-extractor.md)** | Outil d’extraction de texte et images depuis des fichiers PDF via l'OCR. |
+| **[Page de garde](header-pdf.md)**     | Permet de rajouter une page de garde personnalisée aux fichiers PDF.     |
 
 ## Menu utilisateur
 

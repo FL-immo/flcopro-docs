@@ -10,10 +10,10 @@ La page **Vue d’ensemble des copropriétés** permet d’accéder rapidement a
 
 Trois indicateurs présentent un résumé des données :
 
-| Indicateur | Description |
-|-----------|-------------|
-| **Copropriétés** | Nombre total de copropriétés enregistrées dans le logiciel. |
-| **Résidents** | Total des résidents associés à l'ensemble des copropriétés. |
+| Indicateur           | Description                                                           |
+|----------------------|-----------------------------------------------------------------------|
+| **Copropriétés**     | Nombre total de copropriétés enregistrées dans le logiciel.           |
+| **Résidents**        | Total des résidents associés à l'ensemble des copropriétés.           |
 | **Rapports ce mois** | Nombre de rapports générés **ce mois-ci par l’utilisateur connecté**. |
 
 ---
