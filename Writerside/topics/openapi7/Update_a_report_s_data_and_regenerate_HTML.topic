@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Update a report&apos;s data and regenerate HTML" id="Update_a_report_s_data_and_regenerate_HTML">
+
+    <api-endpoint openapi-path="../../specifications/openapi.json" method="PATCH" endpoint="/reports/{id}"/>
+</topic>

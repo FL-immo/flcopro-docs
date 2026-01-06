@@ -3,8 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="f"
-                 name="FL Copro - Documentation"
-                 start-page="overview.md">
+                  name="FL Copro - Documentation"
+                  start-page="overview.md">
 
     <toc-element topic="overview.md"/>
     <toc-element topic="authentication.md"/>
@@ -30,4 +30,131 @@
         <toc-element topic="admin-roles.md"/>
     </toc-element>
     <toc-element topic="profile.md"/>
+
+    <!-- API REFERENCE - RESTRUCTURÉE -->
+    <toc-element topic="API_Reference.topic">
+
+        <!-- SCHEMAS -->
+        <toc-element toc-title="Schemas">
+            <toc-element topic="Address.topic"/>
+            <toc-element topic="AuthResponse.topic"/>
+            <toc-element topic="Condominium.topic"/>
+            <toc-element topic="Error.topic"/>
+            <toc-element topic="LoginRequest.topic"/>
+            <toc-element topic="Report.topic"/>
+            <toc-element topic="ReportStructure.topic"/>
+            <toc-element topic="Resident.topic"/>
+            <toc-element topic="Role.topic"/>
+            <toc-element topic="SuccessResponse.topic"/>
+            <toc-element topic="UploadedImage.topic"/>
+            <toc-element topic="User.topic"/>
+            <toc-element topic="UserResponse.topic"/>
+        </toc-element>
+
+        <!-- AUTHENTICATION -->
+        <toc-element toc-title="Authentication">
+            <toc-element topic="Register_a_new_user.topic"/>
+            <toc-element topic="Login_with_email_and_password.topic"/>
+            <toc-element topic="Request_email_verification.topic"/>
+            <toc-element topic="Verify_email_with_a_token.topic"/>
+            <toc-element topic="Initiate_password_reset.topic"/>
+            <toc-element topic="Reset_password_with_token.topic"/>
+        </toc-element>
+
+        <!-- USER PROFILE -->
+        <toc-element toc-title="User Profile">
+            <toc-element topic="Get_the_authenticated_user_s_profile.topic"/>
+            <toc-element topic="Update_authenticated_user_s_profile.topic"/>
+            <toc-element topic="Change_the_authenticated_user_s_password.topic"/>
+            <toc-element topic="Update_user_profile_firstname_lastname_avatar_.topic"/>
+            <toc-element topic="Change_the_current_user_password.topic"/>
+        </toc-element>
+
+        <!-- USERS MANAGEMENT (ADMIN) -->
+        <toc-element toc-title="Users Management">
+            <toc-element topic="Get_all_users.topic"/>
+            <toc-element topic="Create_new_user.topic"/>
+            <toc-element topic="Update_a_user_by_ID.topic"/>
+            <toc-element topic="Delete_a_user_by_ID.topic"/>
+            <toc-element topic="Reset_a_user_s_password_by_ID.topic"/>
+        </toc-element>
+
+        <!-- CONDOMINIUMS -->
+        <toc-element toc-title="Condominiums">
+            <toc-element topic="Get_all_condominiums.topic"/>
+            <toc-element topic="Get_condominiums_with_a_limit.topic"/>
+            <toc-element topic="Get_number_of_condominiums.topic"/>
+            <toc-element topic="Get_all_condominium_codes.topic"/>
+            <toc-element topic="Get_condominium_by_ID.topic"/>
+            <toc-element topic="Add_a_condominium.topic"/>
+            <toc-element topic="Update_condominium_by_ID.topic"/>
+            <toc-element topic="Delete_condominium_by_ID.topic"/>
+            <toc-element topic="Pin_a_condominium_for_the_current_user.topic"/>
+            <toc-element topic="Unpin_a_condominium_for_the_current_user.topic"/>
+            <toc-element topic="Seed_the_database_with_condominiums.topic"/>
+        </toc-element>
+
+        <!-- RESIDENTS -->
+        <toc-element toc-title="Residents">
+            <toc-element topic="Get_all_residents.topic"/>
+            <toc-element topic="Get_number_of_residents.topic"/>
+            <toc-element topic="Get_residents_of_a_condominium_by_ID.topic"/>
+            <toc-element topic="Add_a_resident_to_a_condominium.topic"/>
+            <toc-element topic="Update_a_resident.topic"/>
+            <toc-element topic="Remove_a_resident_from_a_condominium.topic"/>
+            <toc-element topic="Import_residents_from_an_Excel_file_to_a_condominium.topic"/>
+            <toc-element topic="Replace_all_residents_in_a_condominium_from_an_Excel_file.topic"/>
+        </toc-element>
+
+        <!-- REPORTS -->
+        <toc-element toc-title="Reports">
+            <toc-element topic="Get_all_reports.topic"/>
+            <toc-element topic="Get_all_reports_for_a_specific_condominium.topic"/>
+            <toc-element topic="Get_a_report_by_ID.topic"/>
+            <toc-element topic="Add_a_new_report_or_update_an_existing_one.topic"/>
+            <toc-element topic="Update_a_report_s_data_and_regenerate_HTML.topic"/>
+            <toc-element topic="Delete_a_report_and_its_associated_images.topic"/>
+            <toc-element topic="Get_the_pre_generated_HTML_content_of_a_report.topic"/>
+            <toc-element topic="Update_only_the_HTML_content_of_a_report.topic"/>
+            <toc-element topic="Regenerate_the_HTML_content_for_a_report.topic"/>
+            <toc-element topic="Download_a_report_as_PDF.topic"/>
+        </toc-element>
+
+        <!-- REPORT STRUCTURES -->
+        <toc-element toc-title="Report Structures">
+            <toc-element topic="Get_report_structure_by_type.topic"/>
+            <toc-element topic="Add_or_create_a_new_report_structure.topic"/>
+            <toc-element topic="Update_patch_an_existing_report_structure.topic"/>
+            <toc-element topic="Delete_a_report_structure_by_type.topic"/>
+        </toc-element>
+
+        <!-- IMAGES -->
+        <toc-element toc-title="Images">
+            <toc-element topic="Upload_an_image.topic"/>
+            <toc-element topic="Get_an_image_by_ID.topic"/>
+            <toc-element topic="Delete_an_image_by_ID.topic"/>
+            <toc-element topic="Get_statistics_about_orphan_images.topic"/>
+            <toc-element topic="Delete_all_orphan_images.topic"/>
+        </toc-element>
+
+        <!-- ROLES -->
+        <toc-element toc-title="Roles">
+            <toc-element topic="Get_all_roles.topic"/>
+            <toc-element topic="Replace_all_roles_with_the_provided_array.topic"/>
+        </toc-element>
+
+        <!-- PDF OPERATIONS -->
+        <toc-element toc-title="PDF Operations">
+            <toc-element topic="OCR_d_un_PDF_pour_le_rendre_recherchable_texte_sélectionnable_.topic"/>
+            <toc-element topic="OCR_d_un_PDF_progression_en_temps_réel_pour_générer_un_PDF_recherchable_.topic"/>
+            <toc-element topic="Ajoute_une_page_de_garde_à_un_PDF.topic"/>
+        </toc-element>
+
+        <!-- SYSTEM -->
+        <toc-element toc-title="System">
+            <toc-element topic="Get_API_status_and_MongoDB_connection_info.topic"/>
+            <toc-element topic="Récupère_les_informations_du_VPS_Hostinger.topic"/>
+        </toc-element>
+
+    </toc-element>
 </instance-profile>

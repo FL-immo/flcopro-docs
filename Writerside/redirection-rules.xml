@@ -10,4 +10,8 @@
         <description>Created after removal of "Créer" from flcopro-documentation</description>
         <accepts>Créer.html</accepts>
     </rule>
+    <rule id="24893958">
+        <description>Created after removal of "SchemasTEMP" from FL Copro - Documentation</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
 </rules>
